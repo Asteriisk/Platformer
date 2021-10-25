@@ -6,11 +6,12 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - EnemyCoin
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
